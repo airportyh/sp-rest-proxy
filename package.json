@@ -19,9 +19,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koltyakov/sp-rest-proxy.git"
+    "url": "git+https://github.com/airportyh/sp-rest-proxy.git"
   },
-  "author": "Andrew Koltyakov <andrew.koltyakov@gmail.com>",
+  "author": "Toby Ho <airportyh@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/koltyakov/sp-rest-proxy/issues"
