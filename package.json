@@ -1,5 +1,5 @@
 {
-  "name": "sp-rest-proxy",
+  "name": "sp-rest-proxy-airportyh",
   "description": "SharePoint REST API Proxy for Node.js and Express local serve",
   "version": "2.3.3",
   "main": "./dist/index.js",
